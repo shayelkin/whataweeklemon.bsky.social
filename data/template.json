@@ -1,0 +1,10 @@
+{
+    "image_file": "lemon-template.jpg",
+    "font_file": "OpenSans-Bold.ttf",
+    "font_size": 36,
+    "top": 468, 
+    "left": 940, 
+    "min_width": 182,
+    "color": "255,255,255",
+    "bg_color": "0,0,0"
+}
